@@ -1,0 +1,8 @@
+Kevin 27/08/2024
+
+Run this before running the script:
+pip install pymysql
+
+You can use this tool to send mails to your costumers from the database.
+
+
